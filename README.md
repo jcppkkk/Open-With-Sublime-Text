@@ -3,4 +3,7 @@ Add context menu to allow user open file or folder with Sublime as User or Admin
 
 ## Installation
 
-Save the raw file OpenWithSublimeTextAsAdmin.bat into sublime folder and execute it.
+1. Save the raw file of [OpenWithSublimeTextAsAdmin.bat](https://raw.githubusercontent.com/jcppkkk/Open-With-Sublime-Text/master/OpenWithSublimeTextAsAdmin.bat) into sublime folder
+2. execute ```OpenWithSublimeTextAsAdmin.bat```
+3. Apeecpt if it prompts for administrator rights
+4. Test right context on file(s)
